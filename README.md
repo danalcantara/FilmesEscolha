@@ -42,19 +42,6 @@ RandomPicker: Lida com a lógica de seleção aleatória de filmes.
 
 AddMovie: Permite ao usuário inserir e salvar o título de um filme.
 
-Instalação
-
-Clone o repositório no GitHub:
-
-git clone https://github.com/seuusuario/random-movie-picker.git
-
-Abra o projeto no Android Studio.
-
-Compile e execute o aplicativo em um emulador ou dispositivo físico.
-
-Capturas de Tela
-
-Adicione capturas de tela da interface do aplicativo aqui para mostrar suas funcionalidades.
 
 Melhorias Futuras
 
